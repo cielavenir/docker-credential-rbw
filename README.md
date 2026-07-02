@@ -1,6 +1,6 @@
 ## docker-credential-rbw
 
-A docker credential helper based on rbw bitwarden client.
+A docker credential helper based on (rbw)[https://github.com/doy/rbw] bitwarden client.
 
 There are bitwarden helpers such as https://gitlab.com/eyJhb/docker-credential-bitwarden and https://github.com/jenbroek/bitwarden-helpers .
 
